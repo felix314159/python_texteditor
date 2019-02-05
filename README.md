@@ -1,2 +1,2 @@
-# python_texteditor
-This is a simple text editor implemented in Python. I am currently working on this and adding a few features. You can already save and import files, change text size, style and font and you can also change the background color of the editor. More changes comming soon, stay tuned! (no one reads this anyways lel)
+# Texteditor in Python 3 (tkinter GUI)
+This is a simple text editor implemented in Python 3. It has a few features, you can save and import files, change text size, style and font with keyboard shortcuts and you can also change the background color of the editor.
